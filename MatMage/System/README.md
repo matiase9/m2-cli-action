@@ -1,0 +1,1 @@
+Module MatMage\System implements integration the new command cli.
